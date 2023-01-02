@@ -1,0 +1,11 @@
+{
+    "name": "Freebies",
+    "version": "1.0.0",
+    "description": "List of free games on Epic games",
+    "manifest_version": 3,
+    "author": "iapposki",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Free games to grab"
+    }
+}
