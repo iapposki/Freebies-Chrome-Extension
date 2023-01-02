@@ -1,7 +1,7 @@
 {
     "name": "Freebies",
     "version": "1.0.0",
-    "description": "List of free games on Epic games",
+    "description": "List of free games on Epic games and Steam",
     "manifest_version": 3,
     "author": "iapposki",
     "action":{
